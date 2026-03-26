@@ -1,4 +1,4 @@
-<h1 align="center"> Oil Market Dashboard (Excel)</h1>
+<h1 align="center"> Oil Market Analysis Dashboard (Excel)</h1>
 
 <p align="center">
   <b>Microsoft Excel | Data Analysis | Energy Market Insights</b>
